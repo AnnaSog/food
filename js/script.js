@@ -31,6 +31,6 @@ window.addEventListener('DOMContentLoaded', () =>{
         field: '.offer__slider-inner'
     });
     forms('form', modalTimerId);
-    timer('.timer', '2021-04-18');
+    timer('.timer', '2021-10-18');
 
 });
